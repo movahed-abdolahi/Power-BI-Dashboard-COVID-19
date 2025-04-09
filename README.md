@@ -51,7 +51,7 @@ Key pages and features in the `.pbix` dashboard:
 - Interactive map
 - Drillthrough button to see detailed information when selecting a country on the map
 
-![Global Overview](files/Qverview.png)
+![Global Overview](files/Overview.png)
 
 ### 📈 Country details page
 - R-value vs case count over time
