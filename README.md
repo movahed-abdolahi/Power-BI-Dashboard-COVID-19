@@ -50,7 +50,8 @@ Key pages and features in the `.pbix` dashboard:
 - Fatality and vaccination rates by continent
 - Interactive map
 - Drillthrough button to see detailed information when selecting a country on the map
-![Global Overview](files/overview.png)
+
+![Global Overview](files/Qverview.png)
 
 ### 📈 Country details page
 - R-value vs case count over time
@@ -60,6 +61,7 @@ Key pages and features in the `.pbix` dashboard:
 - Country-level breakdown showing:
   - GDP, HDI, Median Age, Hospital Beds, Poverty Rate
   - Days segmented by fatality risk (low, medium, high)
+
 ![Country detail drillthrough page](files/Country-Detail.png)
 
 ---
